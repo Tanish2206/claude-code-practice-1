@@ -1,0 +1,9 @@
+# API keys — never commit these
+.env
+.env.*
+
+# Claude Code local overrides
+.claude/settings.local.json
+
+# Logs (optional — remove this line if you want logs in git)
+logs/
